@@ -83,7 +83,15 @@ Una de las técnicas más usadas hoy en día consiste en el _phising_ y la "inge
 
 ## Caso real de la amenaza: 
 
+### Una campaña de cryptojacking afecta a más de 200.000 routers MikroTik
 
+Fecha de publicación 10/08/2018
+
+Un grupo de investigadores de SpiderLabs ha encontrado una nueva botnet formada por más de 200.000 routers MikroTik.
+ 
+Inyecta una serie de scripts para minar criptomonedas utilizando los dispositivos de los usuarios conectados a estos routers.
+
+[Noticia](https://www.incibe.es/incibe-cert/publicaciones/bitacora-de-seguridad/campana-cryptojacking-afecta-mas-200000-routers-mikrotik)
 
 # Bibliografía
 
