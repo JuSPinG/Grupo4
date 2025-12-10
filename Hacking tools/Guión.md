@@ -15,7 +15,7 @@ Esta herramienta nos ayuda a ver información de los correos electrónicos. Cuan
 
 Típicamente, uno puede acceder a esta cabecera si hace clic en "Mostrar Original".
 
-![Mostrar original correo Gmail.png](Mostrar original correo Gmail.png)
+![Mostrar original correo Gmail.png](/Hacking%20tools/Mostrar%20original%20correo%20Gmail.png)
 
 Y la herramienta presentada nos ayuda a pasar de esto:
 
@@ -79,10 +79,33 @@ Además, nos informa de los tiempos:
 
 Esta página web nos permite emular otras páginas web junto con sus sistemas operativos (de forma predeterminada, Windows). Uno entra a dicha web, especifica a qué otra página web quiere acceder, y se inicia un navegador dentro de una máquina virtual que ponen a tu servicio por unos minutos. Extender el tiempo o usar otras aplicaciones (no todas) requiere de pagar el premium. En mi caso, he entrado en la propia web de Browserling dentro de Browserling, he iniciado Ubuntu WSL y he ejecutado el comando divertido por antonomasia: `rm -R / --no-preserve-root --force`.
 
-![Ejemplo de Browserling.png](Ejemplo de Browserling.png)
+![Ejemplo de Browserling.png](/Hacking%20tools/Ejemplo%20de%20Browserling.png)
 
 # [Any.run](https://any.run/)
 
 Any.run es una página web que presenta máquinas virtuales que ejecutan un software específico y monitorizan el sistema. Esto se hace para saber si el archivo posee algún tipo de malware o no. Haría una prueba para enseñar mejor cómo funciona, pero necesito una cuenta de correo empresarial fuera del dominio de Google, cosa que me es imposible. Igualmente, existen alternativas, como VirusTotal, que analiza de la mano de múltiples antivirus si el archivo seleccionado es un malware o no. Además, muestra los metadatos del archivo y en algunos casos, ejecuta internamente el archivo en una máquina virtual y monitoriza los cambios que realiza el ejecutable en el sistema operativo. Este es mi [reporte](https://www.virustotal.com/gui/file/80f87330ee7b4bc55bcb58ef10dfcdacba12c47c74bb8128f2f1cb9d86ec6815/behavior) para el archivo "logisim-evolution-4.0.0-amd64.msi". Si no fuese poco, la comunidad deja comentarios sobre el archivo para advertir a los nuevos usuarios.
 
-![Ejemplo de VirusTotal.png](Ejemplo de VirusTotal.png)
+![Ejemplo de VirusTotal.png](/Hacking%20tools/Ejemplo%20de%20VirusTotal.png)
+
+
+# [Verify Email](https://verifymail.io/)
+
+
+
+# [Breach-parse](https://lnkd.in/duYp5hyF/)
+
+
+
+# [Email Checker](https://email-checker.net/)
+
+
+
+# [Social Bearing](https://socialbearing.com/)
+
+
+
+# [Baidu](https://www.baidu.com/)
+
+
+
+# [Google-hacking-database](https://www.exploit-db.com/google-hacking-database)
