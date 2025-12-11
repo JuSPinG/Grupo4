@@ -1,3 +1,7 @@
+Grupo 4: [Enlace](https://docs.google.com/document/d/1HYB5ysluQT48IaaAoVoHTwkMw390diEZ/edit) 
+
+[Presentación](https://docs.google.com/presentation/d/1rlwxk4t_ZnDCnZm1vi4iwsirxv7c2b_PuTRuQqUV370/edit?usp=sharing)
+
 # Índice
 1. Messageheader (Google): [https://toolbox.googleapps.com/apps/messageheader/](https://toolbox.googleapps.com/apps/messageheader/).
 2. Browserling: [https://www.browserling.com/](https://www.browserling.com/).
@@ -90,7 +94,61 @@ Any.run es una página web que presenta máquinas virtuales que ejecutan un soft
 
 # [Verify Email](https://verifymail.io/)
 
+La página verifymail.io es una herramienta de verificación y validación de correos electrónicos.
 
+Su propósito principal es ayudarte a limpiar tus listas de contactos para asegurar que los correos que envías lleguen a buzones de entrada reales y activos.
+
+En términos sencillos, lo que hace es:
+
+Verificar la validez de los correos: Comprueba si una dirección de correo existe y es funcional.
+
+Reducir las tasas de rebote (bounce rates): Al eliminar los correos inválidos, evita que tu reputación como remitente se vea afectada negativamente.
+
+Mejorar la entregabilidad: Asegura que tus mensajes de email marketing o transaccionales tengan más probabilidades de llegar a la bandeja de entrada y no a la carpeta de spam.
+
+Ofrece servicios para verificar correos de forma individual, cargar listas enteras para limpieza masiva, e incluso buscar direcciones de correo profesionales.
+
+## Prueba de verifymail
+
+![alt text](image-2.png)
+
+### Detalles del dominio gmail
+
+| Característica Evaluada | Resultado del Reporte | Significado y Conclusión |
+| ---- | ---- | ---- |
+| Dominio | gmail.com | El dominio que fue verificado. |
+| Servidor de Correo Válido | Verdadero | El servidor de correo existe y está configurado correctamente para recibir emails. |
+| Proveedor de Email | Gmail | El servicio es proporcionado por Google. |
+| Dominio Catch-All | Falso | Bueno para la verificación: El servidor no acepta *todos* los correos; solo acepta direcciones de usuario que realmente existen. |
+| Correo Entregable | Falso | Normal: Solo se verificó el *dominio*, no una *dirección de correo específica*. La herramienta no puede garantizar la entregabilidad sin verificar la dirección completa. |
+| Correo Desechable | Falso | Seguro: No es un servicio de correo temporal o de un solo uso. |
+| Privacidad | Falso | El dominio no tiene configuraciones especiales que impidan la verificación. |
+| Recomendación General | Seguro | El reporte concluye que gmail.com es un dominio seguro para enviar o recibir correo. |
+
+### Nombres de Host y Prioridades del Servidor
+
+| Hostname del Servidor de Correo | Prioridad (MX) |
+| ---- | ---- |
+| gmail-smtp-in.l.google.com | 5 (Principal) |
+| alt1.gmail-smtp-in.l.google.com | 10 |
+| alt2.gmail-smtp-in.l.google.com | 20 |
+| alt3.gmail-smtp-in.l.google.com | 30 |
+| alt4.gmail-smtp-in.l.google.com | 40 |
+
+### Información Geográfica de las Direcciones IP del Servidor
+
+| Dirección IP (v4/v6) | Ubicación Geográfica | Sistema Autónomo (AS) |
+| ---- | ---- | ---- |
+| 192.178.213.26 | United States | AS15169 \- GOOGLE |
+| 2a00:1450:4013:c1e::1b | Groningen, The Netherlands | AS15169 \- GOOGLE |
+| 142.250.147.27 | United States | AS15169 \- GOOGLE |
+| 2a00:1450:4025:c01::1a | Billund, Denmark | AS15169 \- GOOGLE |
+| 64.233.184.27 | United States | AS15169 \- GOOGLE |
+| 2a00:1450:400c:c04::1a | Wallonia, Belgium | AS15169 \- GOOGLE |
+| 172.253.144.26 | United States | AS15169 \- GOOGLE |
+| 2404:6800:4003:c24::1a | Singapore | AS15169 \- GOOGLE |
+| 172.253.130.26 | United States | AS15169 \- GOOGLE |
+| 2a00:1450:4010:c20::1a | Kymenlaakso, Finland | AS15169 \- GOOGLE |
 
 # [Breach-parse](https://lnkd.in/duYp5hyF/)
 
@@ -98,14 +156,98 @@ Any.run es una página web que presenta máquinas virtuales que ejecutan un soft
 
 # [Email Checker](https://email-checker.net/)
 
+El sitio web Email Checker es una herramienta gratuita que sirve para verificar si una dirección de correo electrónico es válida y existe.
 
+Funciona comprobando lo siguiente:
+
+- El formato de la dirección de correo.
+
+- Si el nombre de dominio es válido.
+
+- Si no es una dirección de correo desechable.
+
+- Extrae los registros MX y se conecta al servidor de correo (simulando el envío de un mensaje) para confirmar que el buzón de correo realmente existe.
+
+También ofrecen una herramienta premium para verificar listas de correos (verificador masivo) y una herramienta gratuita para extraer correos electrónicos de archivos de texto o documentos.
+
+## Prueba de Email Checker
+
+Probamos con una cuenta de correo que si existe
+
+![alt text](image-5.png)
+
+Probamos con una cuenta de correo que no existe
+
+![alt text](image-6.png)
 
 # [Social Bearing](https://socialbearing.com/)
 
+Socialbearing.com fue una herramienta en línea de búsqueda y análisis de Twitter que permitía explorar datos, métricas y estadísticas de tweets, perfiles y tendencias en la plataforma Twitter. 
+
+Actualmente, la página principal redirige a un artículo del creador explicando que el servicio dejó de funcionar debido a cambios en la API de Twitter (la forma en que herramientas externas acceden a datos).
+
+
+Cuando estaba activa, Social Bearing ofrecía funciones como:
+
+- Buscar tweets por palabra clave o hashtag.
+
+- Analizar perfiles públicos de Twitter (cantidad de tweets, retweets, likes, etc.). 
+
+- Filtrar resultados por idioma, tipo de tweet (respuesta, retweet, etc.) y sentimiento. 
+
+- Mostrar estadísticas como influencia, engagement y mapas de tweets geolocalizados. 
+
+- Extraer estadísticas detalladas sobre un usuario o tema. 
+
+Internamente se apoyaba en la API pública de Twitter para obtener los datos antes de que esa API se volviera costosa o restrictiva.
+
+
+SocialBearing servía para analizar perfiles de Twitter, medir el desempeño de tweets y hashtags, y estudiar tendencias o conversaciones en tiempo real. Era muy útil para profesionales como community managers, especialistas en marketing digital, periodistas e investigadores que necesitaban comprender la actividad y el impacto de contenidos específicos en redes sociales.
+
+
+En su momento fue una herramienta muy útil porque ofrecía funciones avanzadas que la plataforma de Twitter no incluía. No obstante, actualmente ya no es funcional, por lo que no puede considerarse útil para análisis reales o actuales. La página en sí no se considera peligrosa, pero debido a que ya no ofrece servicios activos, solo funciona como un sitio inactivo sin herramientas de análisis.
+
+Actualmente para poder solo ver esta herramienta podemos hacerlo desde "WayBackMachine":
+
+![alt text](image.png)
 
 
 # [Baidu](https://www.baidu.com/)
 
+Baidu.com es el portal principal del gigante tecnológico chino Baidu, Inc., conocido principalmente por su motor de búsqueda en idioma chino, similar a Google. Fundado en el año 2000 por Robin Li y Eric Xu, Baidu se ha convertido en una de las compañías tecnológicas más importantes de China y del mundo en servicios de internet e inteligencia artificial.
 
+Baidu funciona principalmente como un buscador web, respondiendo a miles de millones de consultas de usuarios cada día. Permite buscar páginas web, noticias, imágenes, videos y otro tipo de contenidos, aunque está adaptado al uso del idioma chino y al ecosistema web de China. Además del buscador, la empresa ofrece otros productos como mapas, enciclopedia colaborativa (Baidu Baike), almacenamiento en la nube, foros y más.
+
+La página principal de Baidu sirve como punto de entrada para realizar búsquedas de información en internet, especialmente en China, donde es el motor de búsqueda dominante. También ofrece acceso a otros servicios del ecosistema Baidu, como noticias, mapas, foros y herramientas de inteligencia artificial.
+
+Baidu es extremadamente útil si estás buscando información dentro del contexto de internet chino o en chino simplificado, ya que domina ese mercado con más del 50 % del tráfico de búsquedas en China y atiende a miles de millones de consultas diariamente. Para usuarios fuera de China o que buscan contenido global en otros idiomas, su utilidad puede estar limitada por el idioma y restricciones geográficas.
+
+La pagina no se puede usar en nuestra region pero funcionaria como una busqueda de google:
+
+![alt text](image-1.png)
 
 # [Google-hacking-database](https://www.exploit-db.com/google-hacking-database)
+
+La Google Hacking Database, conocida como GHDB, es una base de datos de consultas avanzadas de búsqueda que se alojaba y mantiene en el sitio de Exploit Database (Exploit-DB), un repositorio público de información sobre vulnerabilidades y técnicas relacionadas con la seguridad informática. 
+
+GHDB forma parte de la familia de recursos que ofrece Exploit-DB, un proyecto de Offensive Security, que también gestiona grandes colecciones de exploits y herramientas para pruebas de penetración.
+
+La GHDB funciona como un catálogo de consultas que utilizan operadores avanzados de Google, como intitle:, inurl: o filetype:. Estos operadores permiten filtrar los resultados de búsqueda para localizar archivos específicos, paneles de administración, mensajes de error o documentos expuestos. 
+
+No es una herramienta automática: el usuario simplemente copia la consulta de la GHDB, la pega en Google y el motor de búsqueda devuelve los resultados correspondientes. Así, la GHDB actúa como una guía que muestra qué tipo de información puede estar accesible públicamente debido a una configuración incorrecta.
+
+La GHDB sirve principalmente para auditorías de seguridad, pruebas de penetración y análisis OSINT. Los profesionales la utilizan para detectar datos expuestos, descubrir fallos de seguridad y evaluar qué información de un sitio web ha quedado accesible por error. 
+
+También tiene un valor educativo, pues permite comprender cómo Google puede indexar contenido sensible cuando los administradores no protegen adecuadamente sus sistemas. En general, es una herramienta que ayuda a mejorar la seguridad indicando lo que cualquier persona podría encontrar si sabe qué buscar.
+
+La GHDB es muy útil para especialistas en ciberseguridad, técnicos, pentesters e investigadores. Les permite identificar riesgos, corregir vulnerabilidades y aprender sobre exposición de información en Internet. Sin embargo, para un usuario común puede no resultar necesaria o incluso resultar confusa, ya que está orientada a un público técnico. 
+
+Además, su uso debe ser siempre legal y ético: aunque muestra información pública indexada por Google, emplearla para acceder o intentar explotar sistemas es ilegal. En un contexto profesional y responsable, sí es una herramienta altamente útil y valiosa.
+
+Ejemplo:
+
+![alt text](image-3.png)
+
+"filetype:pdf"
+
+![alt text](image-4.png)
