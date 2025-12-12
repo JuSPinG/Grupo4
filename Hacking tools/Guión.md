@@ -6,12 +6,12 @@ Grupo 4: [Enlace](https://docs.google.com/document/d/1HYB5ysluQT48IaaAoVoHTwkMw3
 1. Messageheader (Google): [https://toolbox.googleapps.com/apps/messageheader/](https://toolbox.googleapps.com/apps/messageheader/).
 2. Browserling: [https://www.browserling.com/](https://www.browserling.com/).
 3. Any.run: [https://any.run/](https://any.run/).
-4. Verify Email: https://verifymail.io/.
-5. Breach-parse: https://lnkd.in/duYp5hyF.
-6. Email Checker: https://email-checker.net/.
-7. Social Bearing: https://socialbearing.com/.
-8. Baidu: https://www.baidu.com/.
-9. Google-hacking-database : https://www.exploit-db.com/google-hacking-database.
+4. Verify Email: [https://verifymail.io/](https://verifymail.io/).
+5. BackLinkWatch: [https://lnkd.in/duYp5hyF](https://www.backlinkwatch.com/).
+6. Email Checker: [https://email-checker.net/](https://email-checker.net/).
+7. Social Bearing: [https://socialbearing.com/](https://socialbearing.com/).
+8. Baidu: [https://www.baidu.com/](https://www.baidu.com/).
+9. Google-hacking-database : [https://www.exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database).
 
 # [Messageheader](https://toolbox.googleapps.com/apps/messageheader/)
 
@@ -150,9 +150,29 @@ Ofrece servicios para verificar correos de forma individual, cargar listas enter
 | 172.253.130.26 | United States | AS15169 \- GOOGLE |
 | 2a00:1450:4010:c20::1a | Kymenlaakso, Finland | AS15169 \- GOOGLE |
 
-# [Breach-parse](https://lnkd.in/duYp5hyF/)
+# [BackLinkWatch](https://www.backlinkwatch.com/)
 
+La página web backlinkwatch.com sirve para analizar los enlaces externos (backlinks) que apuntan hacia cualquier sitio web.
 
+## Funcionamiento
+
+Introduce la URL de tu sitio web para obtener información completa y detallada sobre la calidad y cantidad de backlinks que apuntan a él.
+Te mostrará el texto de anclaje, el PageRank, el total de enlaces salientes en esa página y el indicador de no seguimiento para cada enlace entrante disponible.
+
+## Prueba de backlinkwatch
+
+<img width="608" height="620" alt="image" src="https://github.com/user-attachments/assets/eed68607-a6c7-4a27-9f91-5b49ea34fce9" />
+
+Y nos sale esto de resultado
+
+Que al haber puesto de ejemplo el Marca.com Palabras clave principales Páginas principales Número de backlinks
+
+<img width="1359" height="547" alt="image" src="https://github.com/user-attachments/assets/37f7ced3-a1d2-42b5-90ff-b376b03a2508" />
+
+URL del vínculo de retroceso
+Texto de ancla	PageRank Comprobación en tiempo real Enlaces salientes Bandera
+
+<img width="1297" height="452" alt="image" src="https://github.com/user-attachments/assets/d594501e-1f83-478a-8549-ad0fb208c15e" />
 
 # [Email Checker](https://email-checker.net/)
 
