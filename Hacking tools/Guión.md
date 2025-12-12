@@ -7,7 +7,7 @@ Grupo 4: [Enlace](https://docs.google.com/document/d/1HYB5ysluQT48IaaAoVoHTwkMw3
 2. Browserling: [https://www.browserling.com/](https://www.browserling.com/).
 3. Any.run: [https://any.run/](https://any.run/).
 4. Verify Email: [https://verifymail.io/](https://verifymail.io/).
-5. BackLinkWatch: [https://lnkd.in/duYp5hyF](https://www.backlinkwatch.com/).
+5. BackLinkWatch: [(https://www.backlinkwatch.com/)](https://www.backlinkwatch.com/).
 6. Email Checker: [https://email-checker.net/](https://email-checker.net/).
 7. Social Bearing: [https://socialbearing.com/](https://socialbearing.com/).
 8. Baidu: [https://www.baidu.com/](https://www.baidu.com/).
