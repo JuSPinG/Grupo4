@@ -2,7 +2,7 @@
 
 ## FIREWALL:
 
-
+El Firewall es una tecnología que añade una capa de seguridad a las redes, actuando como muro (de ahí su nombre), y permitiendo el paso a las conexiones que se consideren seguras. Supongamos, por ejemplo, que han comprometido a un equipo dentro de una empresa, han instalado un keylogger, ¿Cómo podría mandar este la información si todos los puertos que acceden a Internet están cerrados? No puede, de ahí la 
 
 ## DMZ:
 
@@ -15,6 +15,8 @@
 ## VPN:
 
 La VPN puede ser considerada un tunel, uno se conexta a ella y aparece en otra red de distinta. Además, aunque un equipo solo puede conectarse a una VPN por interfaz, puede cambiar esta en cualquier momento, entrando y saliendo de redes con facilidad.
+
+Las VPN suelen usarse para evadir controles estatales, conectarse a la intranet de empresas (normalmente como empleado). También puede ser útil para acceder a contenidos que únicamente están disponibles en otros países, o para añadir una capa de seguridad a la navegación por internet.
 
 
 
