@@ -37,3 +37,5 @@ Exposición en clase sin leer, repartiendolo equitativamente.
 PD: Acuerdate del commit por sesión trabajada en clase y casa. 
 
 (DIA/HORA PRESENTACIÓN …)
+
+https://docs.google.com/presentation/d/1danDSW8g8AXh0i6WbBQSem3vf5tU0sxoRe4DgfGcOGg/edit?usp=sharing
