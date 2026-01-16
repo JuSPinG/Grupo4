@@ -2,7 +2,9 @@
 
 ## FIREWALL:
 
-El Firewall es una tecnología que añade una capa de seguridad a las redes, actuando como muro (de ahí su nombre), y permitiendo el paso a las conexiones que se consideren seguras. Supongamos, por ejemplo, que han comprometido a un equipo dentro de una empresa, han instalado un keylogger, ¿Cómo podría mandar este la información si todos los puertos que acceden a Internet están cerrados? No puede, de ahí la 
+El firewall es una tecnología que añade una capa de seguridad a las redes, actuando como muro (de ahí su nombre), y permitiendo el paso a las conexiones que se consideren seguras. Supongamos, por ejemplo, que han comprometido a un equipo dentro de una empresa, han instalado un keylogger, ¿Cómo podría mandar este la información si todos los puertos que acceden a Internet están cerrados? No puede, por eso el firewall añade una capa de seguridad tan potente. Uno puede especificar por qué puertos, por qué interfaces va a haber qué puertos abiertos. También se puede programar un cierre bajo algunas condiciones específicas.
+
+Existen 3 tipos de firewall, dependiendo de dónde se apliquen. No es lo mismo un firewall de aplicación que un firewall host, y lo mismo sucede con el firewall físico.
 
 ## DMZ:
 
