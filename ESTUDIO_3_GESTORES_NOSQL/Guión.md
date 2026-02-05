@@ -41,7 +41,16 @@ Las bases de datos SQL son mejores para aplicaciones de gestión de datos con es
 
 ## CASSANDRA
 
+Apache Cassandra es una base de datos NoSQL distribuida y orientada a columnas, diseñada para manejar grandes volúmenes de datos con alta disponibilidad y sin puntos únicos de fallo.
 
+Características Clave:
+
+1. Arquitectura Masterless: No existe un nodo principal; todos los nodos son iguales. Esto permite que el sistema siga funcionando aunque fallen varios nodos.
+2. Escalabilidad Horizontal Lineal: Se pueden agregar nodos fácilmente al cluster para aumentar capacidad y rendimiento sin detener el sistema.
+3. Consistencia Sintonizable: Permite elegir entre consistencia eventual o fuerte según la necesidad de cada operación (priorizando velocidad o precisión).
+4. Optimizada para Escrituras Masivas: Ideal para sistemas donde los datos se insertan de forma continua, como logs, métricas o eventos.
+5. Alta Tolerancia a Fallos: Replicación automática de datos entre nodos y, si se desea, entre distintos centros de datos.
+6. Uso ideal: Big Data, análisis de logs, IoT, series temporales y aplicaciones que requieren disponibilidad constante y gran volumen de escrituras.
 
 ## AMAZON DYNAMODB
 
